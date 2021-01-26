@@ -1,0 +1,1 @@
+web: java -jar target/vacations-assistant-1.0.jar

@@ -1,0 +1,1982 @@
+[
+	{
+		"name": "New Year's Day",
+		"date": "2020-01-01",
+		"observed": "2020-01-01",
+		"public": true,
+		"country": "PL",
+		"uuid": "4b89c540-8ad2-423d-b756-accb2ff5da4f",
+		"weekday": {
+			"date": {
+				"name": "Wednesday",
+				"numeric": "3"
+			},
+			"observed": {
+				"name": "Wednesday",
+				"numeric": "3"
+			}
+		}
+	},
+	{
+		"name": "Epiphany",
+		"date": "2020-01-06",
+		"observed": "2020-01-06",
+		"public": true,
+		"country": "PL",
+		"uuid": "ff47a535-9cee-45b2-b3e0-92e76b81b672",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "Grandmother's Day",
+		"date": "2020-01-21",
+		"observed": "2020-01-21",
+		"public": false,
+		"country": "PL",
+		"uuid": "0d353d3d-46ab-4a10-ad00-155be7e0c332",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "Grandfather's Day",
+		"date": "2020-01-22",
+		"observed": "2020-01-22",
+		"public": false,
+		"country": "PL",
+		"uuid": "30ebdd16-08ec-4888-b40c-f9c3a71cf78a",
+		"weekday": {
+			"date": {
+				"name": "Wednesday",
+				"numeric": "3"
+			},
+			"observed": {
+				"name": "Wednesday",
+				"numeric": "3"
+			}
+		}
+	},
+	{
+		"name": "Public Employment Services Workers' Day",
+		"date": "2020-01-27",
+		"observed": "2020-01-27",
+		"public": false,
+		"country": "PL",
+		"uuid": "7b089716-6692-4bde-9c5b-99a1b667a081",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "Traders' Day",
+		"date": "2020-02-02",
+		"observed": "2020-02-02",
+		"public": false,
+		"country": "PL",
+		"uuid": "9f2a8ed7-a83d-43a9-ba5f-7f0bda93d0ae",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Prison Service Day",
+		"date": "2020-02-08",
+		"observed": "2020-02-08",
+		"public": false,
+		"country": "PL",
+		"uuid": "8e6da57f-7ba2-4079-92fd-03f389ab00cc",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Valentine's Day",
+		"date": "2020-02-14",
+		"observed": "2020-02-14",
+		"public": false,
+		"country": "PL",
+		"uuid": "de51c1a6-4d58-4361-a634-ef927fc5ff8f",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Cat's Day",
+		"date": "2020-02-17",
+		"observed": "2020-02-17",
+		"public": false,
+		"country": "PL",
+		"uuid": "9daceba3-a94e-4e7f-b946-4941223fdccc",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "Fat Thursday",
+		"date": "2020-02-20",
+		"observed": "2020-02-20",
+		"public": false,
+		"country": "PL",
+		"uuid": "1389864d-f173-4055-bd9e-b6dc5382e2de",
+		"weekday": {
+			"date": {
+				"name": "Thursday",
+				"numeric": "4"
+			},
+			"observed": {
+				"name": "Thursday",
+				"numeric": "4"
+			}
+		}
+	},
+	{
+		"name": "Crime Victims Day",
+		"date": "2020-02-22",
+		"observed": "2020-02-22",
+		"public": false,
+		"country": "PL",
+		"uuid": "33b501d9-dc46-4651-8710-7cca6c040d21",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Shrove Tuesday",
+		"date": "2020-02-25",
+		"observed": "2020-02-25",
+		"public": false,
+		"country": "PL",
+		"uuid": "edbdf792-e71b-48a5-8013-57d09b2029fe",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "Ash Wednesday",
+		"date": "2020-02-26",
+		"observed": "2020-02-26",
+		"public": false,
+		"country": "PL",
+		"uuid": "f8ae1547-2edc-48a1-ab16-0329151152bf",
+		"weekday": {
+			"date": {
+				"name": "Wednesday",
+				"numeric": "3"
+			},
+			"observed": {
+				"name": "Wednesday",
+				"numeric": "3"
+			}
+		}
+	},
+	{
+		"name": "National \"Cursed Soldiers\" Day",
+		"date": "2020-03-01",
+		"observed": "2020-03-01",
+		"public": false,
+		"country": "PL",
+		"uuid": "1b9f7d01-6077-4b4e-afdc-0c3ebf0979f1",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "World Wildlife Day",
+		"date": "2020-03-03",
+		"observed": "2020-03-03",
+		"public": false,
+		"country": "PL",
+		"uuid": "7c416033-d5ce-4ac6-b774-39ab3a4ad33e",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "International Women's Day",
+		"date": "2020-03-08",
+		"observed": "2020-03-08",
+		"public": false,
+		"country": "PL",
+		"uuid": "589ff3e4-9b44-4b26-bd21-8dec084ce93f",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Day of Polish Statistics",
+		"date": "2020-03-09",
+		"observed": "2020-03-09",
+		"public": false,
+		"country": "PL",
+		"uuid": "85473561-897b-486e-b1a7-f6869c79ab4d",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "International Men's Day",
+		"date": "2020-03-10",
+		"observed": "2020-03-10",
+		"public": false,
+		"country": "PL",
+		"uuid": "3b35d5fc-9e01-46a2-bdf4-329580a52efc",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "World Consumer Rights Day",
+		"date": "2020-03-15",
+		"observed": "2020-03-15",
+		"public": false,
+		"country": "PL",
+		"uuid": "47b263f0-eba0-4c0a-a78f-5373ddfeac1c",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Earth Day",
+		"date": "2020-03-20",
+		"observed": "2020-03-20",
+		"public": false,
+		"country": "PL",
+		"uuid": "53f9a5b6-2ffc-42d7-9f4c-81268a0e9100",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "March Equinox",
+		"date": "2020-03-20",
+		"observed": "2020-03-20",
+		"public": false,
+		"country": "PL",
+		"uuid": "a76e5a58-cc98-4fac-aeb4-2992af23f882",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Truant's Day",
+		"date": "2020-03-21",
+		"observed": "2020-03-21",
+		"public": false,
+		"country": "PL",
+		"uuid": "42709dab-f691-488a-9813-37d95b870373",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Polish-Hungarian Friendship Day",
+		"date": "2020-03-23",
+		"observed": "2020-03-23",
+		"public": false,
+		"country": "PL",
+		"uuid": "de60744d-6331-4960-9064-956025e56164",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "National Life Day",
+		"date": "2020-03-24",
+		"observed": "2020-03-24",
+		"public": false,
+		"country": "PL",
+		"uuid": "4939df84-fa33-4dbb-ba51-631cafa6b456",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "ABW Day",
+		"date": "2020-04-06",
+		"observed": "2020-04-06",
+		"public": false,
+		"country": "PL",
+		"uuid": "894efeae-0858-430a-be37-e33e7351b694",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "Maundy Thursday",
+		"date": "2020-04-09",
+		"observed": "2020-04-09",
+		"public": false,
+		"country": "PL",
+		"uuid": "a9ed5531-1155-4687-859e-93c8769657e4",
+		"weekday": {
+			"date": {
+				"name": "Thursday",
+				"numeric": "4"
+			},
+			"observed": {
+				"name": "Thursday",
+				"numeric": "4"
+			}
+		}
+	},
+	{
+		"name": "Good Friday",
+		"date": "2020-04-10",
+		"observed": "2020-04-10",
+		"public": false,
+		"country": "PL",
+		"uuid": "9e8a0852-2a29-4bc3-90f2-4836b92e27d4",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Holy Saturday",
+		"date": "2020-04-11",
+		"observed": "2020-04-11",
+		"public": false,
+		"country": "PL",
+		"uuid": "5343aa4e-d151-4443-a4b6-ffe38fa98fea",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Easter",
+		"date": "2020-04-12",
+		"observed": "2020-04-12",
+		"public": true,
+		"country": "PL",
+		"uuid": "2253168f-483a-4616-b770-2eed61870ad9",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Easter Monday",
+		"date": "2020-04-13",
+		"observed": "2020-04-13",
+		"public": true,
+		"country": "PL",
+		"uuid": "a19e8a75-7b9e-4417-b09a-993b6d580eb6",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "Katyn Memorial Day",
+		"date": "2020-04-13",
+		"observed": "2020-04-13",
+		"public": false,
+		"country": "PL",
+		"uuid": "61a16bf1-b904-4d34-84ff-c061f74c2068",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "Coma Patients' Day",
+		"date": "2020-04-18",
+		"observed": "2020-04-18",
+		"public": false,
+		"country": "PL",
+		"uuid": "c03a35bd-57d1-4b22-b945-0ed9192212ea",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Warsaw Ghetto Uprising",
+		"date": "2020-04-19",
+		"observed": "2020-04-19",
+		"public": false,
+		"country": "PL",
+		"uuid": "50ae6213-e612-4dd6-8607-2de2e5c606e3",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "International Mother Earth Day",
+		"date": "2020-04-22",
+		"observed": "2020-04-22",
+		"public": false,
+		"country": "PL",
+		"uuid": "9566c040-cdc5-4f66-a20b-1846a6ea6982",
+		"weekday": {
+			"date": {
+				"name": "Wednesday",
+				"numeric": "3"
+			},
+			"observed": {
+				"name": "Wednesday",
+				"numeric": "3"
+			}
+		}
+	},
+	{
+		"name": "Day for Safety and Health at Work",
+		"date": "2020-04-28",
+		"observed": "2020-04-28",
+		"public": false,
+		"country": "PL",
+		"uuid": "d94a30ad-9983-4244-bc01-cf9ed7b5c638",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "International Workers' Memorial Day",
+		"date": "2020-04-28",
+		"observed": "2020-04-28",
+		"public": false,
+		"country": "PL",
+		"uuid": "60492907-b071-4b02-9fc4-d60c9711d2bd",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "EU Accession Day",
+		"date": "2020-05-01",
+		"observed": "2020-05-01",
+		"public": false,
+		"country": "PL",
+		"uuid": "91376ae5-c66f-4908-b3f9-875316c6f604",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Labor Day",
+		"date": "2020-05-01",
+		"observed": "2020-05-01",
+		"public": false,
+		"country": "PL",
+		"uuid": "abe2dfa4-8a18-48f5-895a-4932cc263c92",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "State Holiday",
+		"date": "2020-05-01",
+		"observed": "2020-05-01",
+		"public": true,
+		"country": "PL",
+		"uuid": "b56ce243-00fe-4044-bdee-ef318df1c8c6",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Flag Day",
+		"date": "2020-05-02",
+		"observed": "2020-05-02",
+		"public": false,
+		"country": "PL",
+		"uuid": "67835f81-2a9e-4ef5-b5ac-a492040a58a8",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Polish Diaspora Day",
+		"date": "2020-05-02",
+		"observed": "2020-05-02",
+		"public": false,
+		"country": "PL",
+		"uuid": "593789ba-b239-42df-8835-b63fcb32c293",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Constitution Day",
+		"date": "2020-05-03",
+		"observed": "2020-05-03",
+		"public": true,
+		"country": "PL",
+		"uuid": "cdd78c32-dee4-4302-b1e4-20fede4e9407",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Firefighters' Day",
+		"date": "2020-05-04",
+		"observed": "2020-05-04",
+		"public": false,
+		"country": "PL",
+		"uuid": "88d947c4-8c10-4146-a7ef-dff93a20288c",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "International Firefighters' Day",
+		"date": "2020-05-04",
+		"observed": "2020-05-04",
+		"public": false,
+		"country": "PL",
+		"uuid": "0732be53-59b9-43f3-b991-bf142e8259a9",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "Victory Day",
+		"date": "2020-05-08",
+		"observed": "2020-05-08",
+		"public": false,
+		"country": "PL",
+		"uuid": "3d3e9ff5-499b-4c8a-8fb9-0c7646896d40",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Europe Day",
+		"date": "2020-05-09",
+		"observed": "2020-05-09",
+		"public": false,
+		"country": "PL",
+		"uuid": "b74e7a77-a629-4a8c-bd5a-e80dc86725df",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Border Guard's Day",
+		"date": "2020-05-16",
+		"observed": "2020-05-16",
+		"public": false,
+		"country": "PL",
+		"uuid": "58a58af5-2ea5-499e-9074-fc9deb1fb4d4",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Mother's Day",
+		"date": "2020-05-26",
+		"observed": "2020-05-26",
+		"public": false,
+		"country": "PL",
+		"uuid": "5bdd7a52-bd42-4c63-994b-7022ee7777de",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "Local Government's Day",
+		"date": "2020-05-27",
+		"observed": "2020-05-27",
+		"public": false,
+		"country": "PL",
+		"uuid": "92cb9008-a57f-4141-af1d-04f36f2f443e",
+		"weekday": {
+			"date": {
+				"name": "Wednesday",
+				"numeric": "3"
+			},
+			"observed": {
+				"name": "Wednesday",
+				"numeric": "3"
+			}
+		}
+	},
+	{
+		"name": "International Day of United Nations Peacekeepers",
+		"date": "2020-05-29",
+		"observed": "2020-05-29",
+		"public": false,
+		"country": "PL",
+		"uuid": "7954fe70-182f-45fd-be46-9be4564f76d5",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Veteran of Overseas Military Activities' Day",
+		"date": "2020-05-29",
+		"observed": "2020-05-29",
+		"public": false,
+		"country": "PL",
+		"uuid": "a2b7380d-3f33-468a-aa04-aff55ad6094a",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Foster Care Day",
+		"date": "2020-05-30",
+		"observed": "2020-05-30",
+		"public": false,
+		"country": "PL",
+		"uuid": "6f1e72e2-a8d0-408a-b123-00273306df7c",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Pentecost",
+		"date": "2020-05-31",
+		"observed": "2020-05-31",
+		"public": true,
+		"country": "PL",
+		"uuid": "d2bc8670-93cb-44bc-9a6d-c798fadc36ce",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "World No Tobacco Day",
+		"date": "2020-05-31",
+		"observed": "2020-05-31",
+		"public": false,
+		"country": "PL",
+		"uuid": "5228f55d-6077-4378-9008-68bfdc51e1f5",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Children's Day",
+		"date": "2020-06-01",
+		"observed": "2020-06-01",
+		"public": false,
+		"country": "PL",
+		"uuid": "8e544fb1-fb7e-418d-9047-721663847fdf",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "Day Without Alcohol",
+		"date": "2020-06-01",
+		"observed": "2020-06-01",
+		"public": false,
+		"country": "PL",
+		"uuid": "29621904-d86e-49ef-9ef0-fc3dede64eae",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "Day of Freedom and Citizens' Rights",
+		"date": "2020-06-04",
+		"observed": "2020-06-04",
+		"public": false,
+		"country": "PL",
+		"uuid": "5d25a056-62d2-409d-bc6b-1a4dc3921b33",
+		"weekday": {
+			"date": {
+				"name": "Thursday",
+				"numeric": "4"
+			},
+			"observed": {
+				"name": "Thursday",
+				"numeric": "4"
+			}
+		}
+	},
+	{
+		"name": "Feast of Corpus Christi",
+		"date": "2020-06-11",
+		"observed": "2020-06-11",
+		"public": true,
+		"country": "PL",
+		"uuid": "2d10f7ed-f517-4bfc-8762-45622d3dd10e",
+		"weekday": {
+			"date": {
+				"name": "Thursday",
+				"numeric": "4"
+			},
+			"observed": {
+				"name": "Thursday",
+				"numeric": "4"
+			}
+		}
+	},
+	{
+		"name": "Government Protection Bureau's Day",
+		"date": "2020-06-12",
+		"observed": "2020-06-12",
+		"public": false,
+		"country": "PL",
+		"uuid": "7c0a165b-ee3b-4039-bf05-4fe94a15aa0f",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Military Gendarmerie's Day",
+		"date": "2020-06-13",
+		"observed": "2020-06-13",
+		"public": false,
+		"country": "PL",
+		"uuid": "5b7c50e8-85ff-47f6-8a8d-dc15305ec848",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "National Day of Remembrance of Nazi Concentration Camps Victims",
+		"date": "2020-06-14",
+		"observed": "2020-06-14",
+		"public": false,
+		"country": "PL",
+		"uuid": "edb5bec7-5760-43f5-b5f9-d1e2410889eb",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "June Solstice",
+		"date": "2020-06-20",
+		"observed": "2020-06-20",
+		"public": false,
+		"country": "PL",
+		"uuid": "0db4b0df-1cf8-4d44-a4e0-feb1e16ec272",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Kupala Night",
+		"date": "2020-06-21",
+		"observed": "2020-06-21",
+		"public": false,
+		"country": "PL",
+		"uuid": "9e07d9ef-15f0-4cb8-98c5-223140fa6f5a",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Father's Day",
+		"date": "2020-06-23",
+		"observed": "2020-06-23",
+		"public": false,
+		"country": "PL",
+		"uuid": "2741684f-f4a3-4596-8b58-52eef909d125",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "Saint John's Eve",
+		"date": "2020-06-23",
+		"observed": "2020-06-23",
+		"public": false,
+		"country": "PL",
+		"uuid": "3a1535d6-ba4e-41c3-b86a-7ba0ec8db43b",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "National Day of Remembrance of Poznań 1956 Protests",
+		"date": "2020-06-28",
+		"observed": "2020-06-28",
+		"public": false,
+		"country": "PL",
+		"uuid": "2f925621-8ce1-4ff0-adae-04add538a55c",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "International Asteroid Day",
+		"date": "2020-06-30",
+		"observed": "2020-06-30",
+		"public": false,
+		"country": "PL",
+		"uuid": "99d47806-0f8b-4f49-b868-d255c167f024",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "Dog's Day",
+		"date": "2020-07-01",
+		"observed": "2020-07-01",
+		"public": false,
+		"country": "PL",
+		"uuid": "526dc17f-475c-4d99-988d-b9723b564198",
+		"weekday": {
+			"date": {
+				"name": "Wednesday",
+				"numeric": "3"
+			},
+			"observed": {
+				"name": "Wednesday",
+				"numeric": "3"
+			}
+		}
+	},
+	{
+		"name": "National Day of Remembrance of Victims of the Genocide Committed by Ukrainian Nationalists on Citizens of the Second Polish Republic",
+		"date": "2020-07-11",
+		"observed": "2020-07-11",
+		"public": false,
+		"country": "PL",
+		"uuid": "ac1e6229-174a-4f2b-8ea9-8ec7c6a338a9",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Nelson Mandela International Day",
+		"date": "2020-07-18",
+		"observed": "2020-07-18",
+		"public": false,
+		"country": "PL",
+		"uuid": "cc0f7f5e-1559-4f58-8604-a451a152a17b",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Police Day",
+		"date": "2020-07-24",
+		"observed": "2020-07-24",
+		"public": false,
+		"country": "PL",
+		"uuid": "6e14b8af-4493-457b-8895-c7c987367b06",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Treasury Day",
+		"date": "2020-07-31",
+		"observed": "2020-07-31",
+		"public": false,
+		"country": "PL",
+		"uuid": "6af69c89-b605-499c-9b73-4122f96049bc",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "National Warsaw Uprising Remembrance Day",
+		"date": "2020-08-01",
+		"observed": "2020-08-01",
+		"public": false,
+		"country": "PL",
+		"uuid": "df5baa90-ce36-4f78-9bcb-56043cce2515",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Genocide Remembrance Day of the Roma and Sinti",
+		"date": "2020-08-02",
+		"observed": "2020-08-02",
+		"public": false,
+		"country": "PL",
+		"uuid": "9b54ede9-bc1c-448d-877a-fd7b4e0ca00e",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Power Engineer's Day",
+		"date": "2020-08-14",
+		"observed": "2020-08-14",
+		"public": false,
+		"country": "PL",
+		"uuid": "7b671961-b7b9-46e7-8971-cfff3cfc7bcb",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Armed Forces Day",
+		"date": "2020-08-15",
+		"observed": "2020-08-15",
+		"public": false,
+		"country": "PL",
+		"uuid": "8c2f39da-8e49-4a2f-9195-c05c5df8aea4",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Assumption of Mary",
+		"date": "2020-08-15",
+		"observed": "2020-08-15",
+		"public": true,
+		"country": "PL",
+		"uuid": "d236fa5d-f35c-4eb0-b614-acfa149621d9",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Municipal Police's Day",
+		"date": "2020-08-29",
+		"observed": "2020-08-29",
+		"public": false,
+		"country": "PL",
+		"uuid": "ef6de69b-19f2-45c2-bbc0-d0ad8d334552",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Day of Solidarity and Freedom",
+		"date": "2020-08-31",
+		"observed": "2020-08-31",
+		"public": false,
+		"country": "PL",
+		"uuid": "dac2a8bf-1821-4264-83f4-68e6125875c1",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "The Day Germany Invaded Poland in 1939",
+		"date": "2020-09-01",
+		"observed": "2020-09-01",
+		"public": false,
+		"country": "PL",
+		"uuid": "1ca9d6d7-20bf-47b9-8619-d32f2484a3e9",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "Veterans Day",
+		"date": "2020-09-01",
+		"observed": "2020-09-01",
+		"public": false,
+		"country": "PL",
+		"uuid": "16c64a30-79fd-4ac2-851f-65bea45f682a",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "Sybirak's Day",
+		"date": "2020-09-17",
+		"observed": "2020-09-17",
+		"public": false,
+		"country": "PL",
+		"uuid": "4b8ccd3b-629c-4b41-a01b-ebe9cf7ec6d4",
+		"weekday": {
+			"date": {
+				"name": "Thursday",
+				"numeric": "4"
+			},
+			"observed": {
+				"name": "Thursday",
+				"numeric": "4"
+			}
+		}
+	},
+	{
+		"name": "The Day Russia Invaded Poland in 1939",
+		"date": "2020-09-17",
+		"observed": "2020-09-17",
+		"public": false,
+		"country": "PL",
+		"uuid": "421be8df-cea6-4cfa-9545-92845313de37",
+		"weekday": {
+			"date": {
+				"name": "Thursday",
+				"numeric": "4"
+			},
+			"observed": {
+				"name": "Thursday",
+				"numeric": "4"
+			}
+		}
+	},
+	{
+		"name": "Customs Service Day",
+		"date": "2020-09-21",
+		"observed": "2020-09-21",
+		"public": false,
+		"country": "PL",
+		"uuid": "5998693f-1bc0-4f22-a505-7a488da46caa",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "September Equinox",
+		"date": "2020-09-22",
+		"observed": "2020-09-22",
+		"public": false,
+		"country": "PL",
+		"uuid": "1a3896b1-f1f1-4f22-b896-f0e9afb3b7eb",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "World Car-Free Day",
+		"date": "2020-09-22",
+		"observed": "2020-09-22",
+		"public": false,
+		"country": "PL",
+		"uuid": "471c0303-fb72-480a-bc00-aed5128e1ad0",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "Polish Underground State's Day",
+		"date": "2020-09-27",
+		"observed": "2020-09-27",
+		"public": false,
+		"country": "PL",
+		"uuid": "f1272170-ce4d-432c-b909-be96ff32dcf9",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Boy's Day",
+		"date": "2020-09-30",
+		"observed": "2020-09-30",
+		"public": false,
+		"country": "PL",
+		"uuid": "d15ea088-5a5c-4e81-a0c8-26f2ce021c7e",
+		"weekday": {
+			"date": {
+				"name": "Wednesday",
+				"numeric": "3"
+			},
+			"observed": {
+				"name": "Wednesday",
+				"numeric": "3"
+			}
+		}
+	},
+	{
+		"name": "Animals' Day",
+		"date": "2020-10-04",
+		"observed": "2020-10-04",
+		"public": false,
+		"country": "PL",
+		"uuid": "51c5cef7-d1b9-460d-83d2-57667a0ba426",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "World Animal Day",
+		"date": "2020-10-04",
+		"observed": "2020-10-04",
+		"public": false,
+		"country": "PL",
+		"uuid": "13a419cc-7d0a-4116-aa2e-e899d130ef10",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Paramedics' Day",
+		"date": "2020-10-13",
+		"observed": "2020-10-13",
+		"public": false,
+		"country": "PL",
+		"uuid": "3a7d8355-1be1-428b-85ae-f3b9a7493270",
+		"weekday": {
+			"date": {
+				"name": "Tuesday",
+				"numeric": "2"
+			},
+			"observed": {
+				"name": "Tuesday",
+				"numeric": "2"
+			}
+		}
+	},
+	{
+		"name": "Teachers' Day",
+		"date": "2020-10-14",
+		"observed": "2020-10-14",
+		"public": false,
+		"country": "PL",
+		"uuid": "50de9079-a1a5-42fd-999b-8ec9cb02a9af",
+		"weekday": {
+			"date": {
+				"name": "Wednesday",
+				"numeric": "3"
+			},
+			"observed": {
+				"name": "Wednesday",
+				"numeric": "3"
+			}
+		}
+	},
+	{
+		"name": "Pope John Paul II Day",
+		"date": "2020-10-16",
+		"observed": "2020-10-16",
+		"public": false,
+		"country": "PL",
+		"uuid": "8feed669-8e84-456a-88f4-55eb799f86e9",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Postman's Day",
+		"date": "2020-10-18",
+		"observed": "2020-10-18",
+		"public": false,
+		"country": "PL",
+		"uuid": "1d58f5a3-f251-4471-b40d-464cec4af79b",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Mongrel's Day",
+		"date": "2020-10-25",
+		"observed": "2020-10-25",
+		"public": false,
+		"country": "PL",
+		"uuid": "76a4b360-84d0-4e53-89ab-bd18c3ead199",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Halloween",
+		"date": "2020-10-31",
+		"observed": "2020-10-31",
+		"public": false,
+		"country": "PL",
+		"uuid": "0a8127a5-47ab-4a5d-8f0e-009256154581",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "All Saints' Day",
+		"date": "2020-11-01",
+		"observed": "2020-11-01",
+		"public": true,
+		"country": "PL",
+		"uuid": "12e216ee-93b2-4a8c-a957-b7c39686c3bd",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Civil Service Day",
+		"date": "2020-11-11",
+		"observed": "2020-11-11",
+		"public": false,
+		"country": "PL",
+		"uuid": "63c0d295-d284-4926-bdf5-de0c811c5e30",
+		"weekday": {
+			"date": {
+				"name": "Wednesday",
+				"numeric": "3"
+			},
+			"observed": {
+				"name": "Wednesday",
+				"numeric": "3"
+			}
+		}
+	},
+	{
+		"name": "National Independence Day",
+		"date": "2020-11-11",
+		"observed": "2020-11-11",
+		"public": true,
+		"country": "PL",
+		"uuid": "44b0192c-4aa0-4ef7-b3a8-6a70240b8cd0",
+		"weekday": {
+			"date": {
+				"name": "Wednesday",
+				"numeric": "3"
+			},
+			"observed": {
+				"name": "Wednesday",
+				"numeric": "3"
+			}
+		}
+	},
+	{
+		"name": "Social Workers' Day",
+		"date": "2020-11-21",
+		"observed": "2020-11-21",
+		"public": false,
+		"country": "PL",
+		"uuid": "8ec1ad79-0254-44d2-99a0-0f3e08eb9349",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Saint Andrew's Day",
+		"date": "2020-11-29",
+		"observed": "2020-11-29",
+		"public": false,
+		"country": "PL",
+		"uuid": "9dd3002c-0d54-48fe-8c47-9b9be14ffb6a",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Miners' Day",
+		"date": "2020-12-04",
+		"observed": "2020-12-04",
+		"public": false,
+		"country": "PL",
+		"uuid": "fe3f6cba-c593-4008-a440-755ffd3d7e9d",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Saint Nicholas' Day",
+		"date": "2020-12-06",
+		"observed": "2020-12-06",
+		"public": false,
+		"country": "PL",
+		"uuid": "0d2b1b2c-1321-4483-9823-dbd052e2cfa3",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "Martial Law Victims Remembrance Day",
+		"date": "2020-12-13",
+		"observed": "2020-12-13",
+		"public": false,
+		"country": "PL",
+		"uuid": "2eb05991-62a9-4dee-8174-245b1cac626b",
+		"weekday": {
+			"date": {
+				"name": "Sunday",
+				"numeric": "7"
+			},
+			"observed": {
+				"name": "Sunday",
+				"numeric": "7"
+			}
+		}
+	},
+	{
+		"name": "December Solstice",
+		"date": "2020-12-21",
+		"observed": "2020-12-21",
+		"public": false,
+		"country": "PL",
+		"uuid": "fa28809b-8cc7-406f-b4ef-4e3326cdefdf",
+		"weekday": {
+			"date": {
+				"name": "Monday",
+				"numeric": "1"
+			},
+			"observed": {
+				"name": "Monday",
+				"numeric": "1"
+			}
+		}
+	},
+	{
+		"name": "Christmas Eve",
+		"date": "2020-12-24",
+		"observed": "2020-12-24",
+		"public": false,
+		"country": "PL",
+		"uuid": "0d4ffd12-6b04-46c3-9f09-d24a5120c7a5",
+		"weekday": {
+			"date": {
+				"name": "Thursday",
+				"numeric": "4"
+			},
+			"observed": {
+				"name": "Thursday",
+				"numeric": "4"
+			}
+		}
+	},
+	{
+		"name": "Christmas Day",
+		"date": "2020-12-25",
+		"observed": "2020-12-25",
+		"public": true,
+		"country": "PL",
+		"uuid": "85a50fd7-fdbc-4b26-bee7-2198b0d2eff6",
+		"weekday": {
+			"date": {
+				"name": "Friday",
+				"numeric": "5"
+			},
+			"observed": {
+				"name": "Friday",
+				"numeric": "5"
+			}
+		}
+	},
+	{
+		"name": "Saint Stephen's Day",
+		"date": "2020-12-26",
+		"observed": "2020-12-26",
+		"public": false,
+		"country": "PL",
+		"uuid": "f767451f-14ac-4e19-9c9f-b73ac3f39c0c",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "Second Day of Christmastide",
+		"date": "2020-12-26",
+		"observed": "2020-12-26",
+		"public": true,
+		"country": "PL",
+		"uuid": "35346a2e-820a-457a-b96b-5344ef822656",
+		"weekday": {
+			"date": {
+				"name": "Saturday",
+				"numeric": "6"
+			},
+			"observed": {
+				"name": "Saturday",
+				"numeric": "6"
+			}
+		}
+	},
+	{
+		"name": "New Year's Eve",
+		"date": "2020-12-31",
+		"observed": "2020-12-31",
+		"public": false,
+		"country": "PL",
+		"uuid": "56660199-8699-4bdb-ba9a-b954e9410774",
+		"weekday": {
+			"date": {
+				"name": "Thursday",
+				"numeric": "4"
+			},
+			"observed": {
+				"name": "Thursday",
+				"numeric": "4"
+			}
+		}
+	}
+]
